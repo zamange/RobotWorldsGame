@@ -1,0 +1,12 @@
+/home/zamagcina/RobotWorldsGame/RobotWorldsGame/bin/Debug/net8.0/RobotWorldsGame.deps.json
+/home/zamagcina/RobotWorldsGame/RobotWorldsGame/bin/Debug/net8.0/RobotWorldsGame.dll
+/home/zamagcina/RobotWorldsGame/RobotWorldsGame/bin/Debug/net8.0/RobotWorldsGame.pdb
+/home/zamagcina/RobotWorldsGame/RobotWorldsGame/obj/Debug/net8.0/RobotWorldsGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/zamagcina/RobotWorldsGame/RobotWorldsGame/obj/Debug/net8.0/RobotWorldsGame.AssemblyInfoInputs.cache
+/home/zamagcina/RobotWorldsGame/RobotWorldsGame/obj/Debug/net8.0/RobotWorldsGame.AssemblyInfo.cs
+/home/zamagcina/RobotWorldsGame/RobotWorldsGame/obj/Debug/net8.0/RobotWorldsGame.csproj.CoreCompileInputs.cache
+/home/zamagcina/RobotWorldsGame/RobotWorldsGame/obj/Debug/net8.0/RobotWorldsGame.sourcelink.json
+/home/zamagcina/RobotWorldsGame/RobotWorldsGame/obj/Debug/net8.0/RobotWorldsGame.dll
+/home/zamagcina/RobotWorldsGame/RobotWorldsGame/obj/Debug/net8.0/refint/RobotWorldsGame.dll
+/home/zamagcina/RobotWorldsGame/RobotWorldsGame/obj/Debug/net8.0/RobotWorldsGame.pdb
+/home/zamagcina/RobotWorldsGame/RobotWorldsGame/obj/Debug/net8.0/ref/RobotWorldsGame.dll
